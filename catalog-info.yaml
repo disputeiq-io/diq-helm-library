@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: diq-helm-library
+  description: Shared Helm library chart templates (Deployment, Rollout, HPA, PDB, AuthorizationPolicy)
+spec:
+  type: library
+  lifecycle: experimental
+  owner: platform-team
+  system: disputeiq
