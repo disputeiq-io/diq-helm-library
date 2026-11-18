@@ -1,0 +1,6 @@
+apiVersion: v2
+name: diq-helm-library
+description: Shared Helm library chart templates for DisputeIQ microservices and web applications.
+type: library
+version: 0.1.0
+appVersion: "1.0.0"
